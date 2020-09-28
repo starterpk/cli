@@ -1,6 +1,6 @@
 {
   "name": "@starter-pack/cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A CLI tool for quickly setting up new projects with your favorite tools",
   "main": "/index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starterpk/cli"
   }
 }

@@ -33,11 +33,11 @@ inquirer
     switch (answer.pack) {
       case "React":
         console.log(chalk.blue("Creating Pack..."));
-        clone("https://github.com/sunil-sandhu/react-starter-pack", "./" + cleanAppName);
+        clone("https://github.com/starterpk/pack-react", "./" + cleanAppName);
         break;
       case "React + Express":
         console.log(chalk.blue("Creating Pack..."));
-        clone("https://github.com/sunil-sandhu/react-express-starter-pack", "./" + cleanAppName);
+        clone("https://github.com/starterpk/pack-react-express", "./" + cleanAppName);
         break;
       default:
         console.log("You didn't pick anything...");
