@@ -1,6 +1,6 @@
 {
   "name": "@starter-pack/cli",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "description": "A CLI tool for quickly setting up new projects with your favorite tools",
   "main": "/index.js",
   "scripts": {
